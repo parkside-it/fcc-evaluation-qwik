@@ -1,0 +1,27 @@
+.go-back {
+  padding: 8px 0 0 8px;
+}
+
+.go-back a {
+  color: initial;
+}
+
+.go-back a:hover {
+  color: gray;
+}
+
+.ticket-detail {
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin: auto;
+  max-width: 600px;
+}
+
+.ticket-detail h2 {
+  margin: 0;
+}
+
+.ticket-detail p {
+  margin: 0 0 5px 0;
+}

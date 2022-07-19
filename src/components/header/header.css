@@ -1,0 +1,10 @@
+header {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  padding: 10px;
+  background-color: #0093ee;
+}
+
+header .title {
+  color: white;
+}
